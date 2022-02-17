@@ -22,6 +22,16 @@
 
 ### 1 - 숫자야구 게임
 
+🗓 기간
+- 21/10/04 ~ 21/09/04 (1 Week) 
+
+📄 개요
+- Command Line Tool
+- 사용자의 입력을 받아 야구게임을 진행하는 콘솔앱 프로젝트입니다.
+
+📚 학습 키워드
+- `Git`
+
 [📂 해당 repo로 이동](https://github.com/forestjae/iOS_NumberBaseBall)
 
 ### 2 - 묵찌빠 게임
