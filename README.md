@@ -174,7 +174,7 @@
 
 [📂 해당 repo로 이동](https://github.com/forestjae/iOS_CloudNotes)
 
-## 9 - 프로젝트 매니저(진행 중)
+## 9 - 프로젝트 매니저
 
 🗓 기간
 - 22/02/28 ~ 22/03/25 (4 Week) 
