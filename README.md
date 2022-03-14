@@ -186,12 +186,13 @@
 - MVVM + 클린 아키텍쳐를 적용한 설계 및 RxSwift로 단방향 데이터바인딩 도모
 
 📚 학습 키워드
-- `MVVM`, `Clean Architecture`, `Ribs`, `Coordinator Pattern`, `Repository Pattern`, `Adaptor Pattern`
+- `MVVM`, `Clean Architecture`, `RIBs`, `Coordinator Pattern`, `Repository Pattern`, `Adaptor Pattern`
 - `RxSwift`, `One-way Data Binding`
 - `SPM`, `FireBase`, `FireStore`
 - `10-200 Rules`
 - `TableView`, `DatePicker`, `Popover Controller`
 - `UndoManager`
 - `UserNotification`
+<img width="1401" alt="스크린샷 2022-03-14 오후 12 51 24" src="https://user-images.githubusercontent.com/76479760/158101902-8a93b24a-77ab-418d-a7a5-5425902624f6.png">
 
 [📂 해당 repo로 이동](https://github.com/forestjae/ios-project-manager)
