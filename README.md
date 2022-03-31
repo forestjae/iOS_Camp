@@ -43,6 +43,7 @@
     [STEP1](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/111)
     [STEP2](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/121)
 
+## #프로젝트 상세
 ## 9 - 프로젝트 매니저 
 
 [(📂 프로젝트 매니저 repository로 이동)](https://github.com/forestjae/ios-project-manager)
