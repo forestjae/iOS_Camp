@@ -30,12 +30,16 @@
 
   [2. 묵찌빠 게임](#2---묵찌빠-게임)
 
-  [1. 숫자야구 게임](#1---숫자야구-게임
+  [1. 숫자야구 게임](#1---숫자야구-게임)
   
 ### 캠프 5기 프로젝트 1, 2 리뷰어 활동
+
   [1. 숫자야구 게임 STEP1](https://github.com/yagom-academy/ios-number-baseball/pull/80)
+  
   [1. 숫자야구 게임 STEP2](https://github.com/yagom-academy/ios-number-baseball/pull/90)
+  
   [2. 묵찌빠 게임 STEP1](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/111)
+  
   [2. 묵찌빠 게임 STEP2](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/121)
 
 ## 9 - 프로젝트 매니저 
